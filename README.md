@@ -1,5 +1,5 @@
-# Willberries - Учебный проект Glo Academy
-
+### Willberries - Учебный проект Glo Academy
+### Link to site: https://maxim-prog292.github.io/Willberries/
 ## В проекте использовались языки:
 - HTML
 - CSS
